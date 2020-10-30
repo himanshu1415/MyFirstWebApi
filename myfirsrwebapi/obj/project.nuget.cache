@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iHxaOUASkiJNCCNtPkPl2Ds2XqRXIoZlv6RTKvY1SduFd5sHFOdx1eC40XZvAC2TFlO8xS0Nrm1OkQEZ3gTMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\himanshu\\source\\repos\\myfirsrwebapi\\myfirsrwebapi\\myfirsrwebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\himanshu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
